@@ -107,7 +107,7 @@ Key findings from the EDA:
 Contributions are welcome! Please fork this repository and submit a pull request with any improvements or bug fixes. You can also open an issue for discussion.
 
 ## linkedin
-welcome to my Linkedin [link](linkedin.com/in/nitish-kr-dash)
+welcome to my Linkedin [link](https://www.linkedin.com/in/nitish-kr-dash/)
 
 
 ---
