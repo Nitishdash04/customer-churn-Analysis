@@ -11,7 +11,7 @@ Welcome to the Customer Churn Analysis project! This repository contains the cod
 - [Results](#results)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 Customer churn occurs when customers stop doing business with a company. In this project, we aim to:
